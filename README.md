@@ -1,7 +1,6 @@
 # BooksHub App
 
-
-A new Flutter project.
+BooksHub is an online platform for E-books.
 
 ## Getting Started
 
