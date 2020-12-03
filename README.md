@@ -6,6 +6,13 @@ BooksHub is an online platform for E-books.
 
 This project is a starting point for a Flutter application.
 
+Screenshots
+
+https://user-images.githubusercontent.com/73584675/101025854-252fec00-359c-11eb-9020-7377bf51e7f1.png
+
+https://user-images.githubusercontent.com/73584675/101025862-26f9af80-359c-11eb-8e0d-851fff142c33.png
+
+
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
